@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, local AI, APIs, Yii2, Wordpress, Laravel, Vuejs, design,  etc
 - 🌱 I’m currently learning to manage to  many things...
 - 💞️ I’m looking to collaborate on yii2 - woocommerce api manager 
-- 📫 How to reach me perrouddavid{at}me.com
+- 📫 How to reach me davidperroud.com
 
 <!---
 davidperroud/davidperroud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
